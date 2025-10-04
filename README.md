@@ -1,4 +1,4 @@
-![Views count](https://views-counter.us.ihack.uk)
+![Views count](https://views-counter.us.ihack.uk/PeronGH)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=PeronGH&show_icons=true)
 
