@@ -1,1 +1,1 @@
-![Views count](https://views-counter.ihack.uk/PeronGH)
+![Views count](https://peron-views-counter-badge.fly.dev/PeronGH)
